@@ -46,6 +46,9 @@
 
 A glorified ChatGPT (and any other provider) UI to create powerful knowledge bases about our solutions with custom conversation contexts.
 
+![image](https://github.com/user-attachments/assets/02c94eeb-daa0-4be2-96d6-b695a95f204c)
+![image](https://github.com/user-attachments/assets/1f8009e4-b12f-4abd-8833-678269284ed3)
+
 Built with [🪶 LibreChat](https://www.librechat.ai/).
 
 # 📃 Features
