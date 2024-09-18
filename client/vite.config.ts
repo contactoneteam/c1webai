@@ -64,30 +64,30 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
       },
       manifest: {
-        name: 'LibreChat',
-        short_name: 'LibreChat',
+        name: 'ContactOne AI',
+        short_name: 'ContactOne AI',
         start_url: '/',
         display: 'standalone',
         background_color: '#000000',
         theme_color: '#009688',
         icons: [
           {
-            src: '/assets/favicon-32x32.png',
+            src: '/assets/contactone.png',
             sizes: '32x32',
             type: 'image/png',
           },
           {
-            src: '/assets/favicon-16x16.png',
+            src: '/assets/contactone.png',
             sizes: '16x16',
             type: 'image/png',
           },
           {
-            src: '/assets/apple-touch-icon-180x180.png',
+            src: '/assets/contactone.png',
             sizes: '180x180',
             type: 'image/png',
           },
           {
-            src: '/assets/maskable-icon.png',
+            src: '/assets/contactone.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'maskable',

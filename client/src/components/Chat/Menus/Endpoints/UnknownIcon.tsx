@@ -18,6 +18,7 @@ const knownEndpointAssets = {
   [KnownEndpoints.shuttleai]: '/assets/shuttleai.png',
   [KnownEndpoints['together.ai']]: '/assets/together.png',
   [KnownEndpoints.unify]: '/assets/unify.webp',
+  ['volt']: 'assets/volt.svg',
 };
 
 const knownEndpointClasses = {
